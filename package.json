@@ -1,0 +1,18 @@
+{
+  "name": "@arrtie/patterns",
+  "version": "1.0.0",
+  "description": "A patterns package from Doberman Made",
+  "keywords": ["patterns", "typescript"],
+  "homepage": "https://github.com/arrtie/patterns",
+  "bugs": {
+    "url": "https://github.com/arrtie/patterns/issues"
+  },
+  "author": "Artie Rosser <artierosser@gmail.com> (https://arrtie.dev)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrtie/patterns.git"
+  },
+  "files": ["dist"],
+  "type": "module",
+   "license": "MIT"
+}
